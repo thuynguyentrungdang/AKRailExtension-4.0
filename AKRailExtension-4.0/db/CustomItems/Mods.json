@@ -1,0 +1,1045 @@
+{
+	"5c064c400db834001d234f68": {
+		"itemTplToClone": "5c064c400db834001d23f468",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"ConflictingItems" : ["618a75c9a3884f56c957ca1b",
+		                        "6113d6c3290d254f5e6b27db",
+		                        "618a5d5852ecee1505530b2a",
+		                        "638db77630c4240f9e06f8b6", 
+		                        "63d114019e35b334d82302f7", 
+		                        "6389f1dfc879ce63f72fc43e", 
+		                        "5f6331e097199b7db2128dc2", 
+		                        "6544d4187c5457729210d277", 
+							  	"5947db3f86f77447880cf76f",
+							  	"57486e672459770abd687134",
+							  	"5649d9a14bdc2d79388b4580",
+							  	"5c82342f2e221644f31c060e",
+							  	"576fd4ec2459777f0b518431",
+							  	"5c82343a2e221644f31c0611",
+							  	"5cf638cbd7f00c06595bc936",
+							  	"5a7c74b3e899ef0014332c29",
+							  	"591ee00d86f774592f7b841e",
+							  	"5d0a29ead7ad1a0026013f27",
+							  	"57acb6222459771ec34b5cb0",
+							  	"5c61a40d2e2216001403158d",
+							  	"5c90c3622e221601da359851"
+            ],
+            "Ergonomics": -1,
+            "Prefab": {
+            	"path": "AK_Mod_0/mount_ak_tactica_tula_10000.bundle"
+            }
+		},
+		"locales": {
+  			"en": {
+				"name": "Tactica Tula 10000 mount",
+        		"shortName": "TT10k",
+        		"description": "Universal mount for AK dust cover, manufactured by Tactica Tula company. Designed for installation of optical scopes, collimator sights, laser designators and other devices and accessories on AK systems family and semiautomatic smoothbore Saiga carbines."
+  			}
+  		},
+		"fleaPriceRoubles": 12997,
+  		"handbookPriceRoubles": 18000,
+  		"addtoTraders": true,
+  		"traders": {
+  			"MECHANIC": {
+  				"691b42c23268e4d8f5c18fbf": {
+  					"barterSettings": {
+			            "loyalLevel": 1,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 5
+		          	},
+		          	"barters": [
+		            {
+		              "count": 12997,
+		              "_tpl": "5449016a4bdc2d6f028b456f"
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"5d2c33Cc48f0355d95672c25": { 
+		"itemTplToClone": "5d2c772c48f0355d95672c25",
+		"parentId": "55818a304bdc2db5418b457d",
+		"handbookParentId": "5b5f764186f77447ec5d7714",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"ConflictingItems" : ["5e217ba4c1434648c13568cd",
+					            "628a6678ccaab13006640e49",
+					            "5b0e794b5acfc47a877359b2",
+					            "5d2c770c48f0354b4a07c100",
+					            "5d2c76ed48f03532f2136169",
+					            "5d2c772c48f0355d95672c25",
+					            "6087e2a5232e5a31c233d552", 
+					            "5c064c400db834001d234f68",
+					            "618a75c9a3884f56c957ca1b",
+					            "6113d6c3290d254f5e6b27db",
+					            "618a5d5852ecee1505530b2a",
+					            "638db77630c4240f9e06f8b6",
+					            "63d114019e35b334d82302f7",
+					            "619b69037b9de8162902673e",
+					            "6389f1dfc879ce63f72fc43e", 
+					            "5f6331e097199b7db2128dc2", 
+					            "5839a7742459773cf9693481", 
+					            "57dc334d245977597164366f", 
+					            "5a957c3fa2750c00137fa5f7", 
+					            "6544d4187c5457729210d277"
+            ],
+            "RaidModdable": true,
+            "Weight": 0.04,
+            "Ergonomics": 9,
+            "Prefab": {
+            	"path": "AK_Mod_0/texas_dog_leg_beryl_style_rail.bundle"
+            }
+		},
+		"locales": {
+  			"en": {
+				"name": "AK TWS Dog Leg Beryl-style Rail",
+        		"shortName": "Beryl Dog Leg Rail",
+            	"description": "The Texas Weapon Systems Dog Leg Beryl-style Rail with an integrated Picatinny rail is compatible with all models of Kalashnikov automatic rifles and carbines based on the AK platform."
+  			}
+  		},
+		"fleaPriceRoubles": 8000,
+  		"handbookPriceRoubles": 15000,
+  		"addtoTraders": true,
+  		"traders": {
+  			"SKIER": {
+  				"691b6923c5eef76576b133f6": {
+  					"barterSettings": {
+			            "loyalLevel": 1,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 3
+		          	},
+		          	"barters": [
+		            {
+		              "count": 8000,
+		              "_tpl": "5449016a4bdc2d6f028b456f" 
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"5d2c770c48f03543Da07c100": { 
+		"itemTplToClone": "5d2c770c48f0354b4a07c100", 
+		"parentId": "55818a304bdc2db5418b457d",
+		"handbookParentId": "5b5f764186f77447ec5d7714",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"ConflictingItems" : ["5e217ba4c1434648c13568cd",
+					            "628a6678ccaab13006640e49",
+					            "5b0e794b5acfc47a877359b2",
+					            "5d2c770c48f0354b4a07c100",
+					            "5d2c76ed48f03532f2136169",
+					            "5d2c772c48f0355d95672c25",
+					            "6087e2a5232e5a31c233d552",
+					            "5c064c400db834001d234f68",
+					            "618a75c9a3884f56c957ca1b",
+					            "6113d6c3290d254f5e6b27db",
+					            "618a5d5852ecee1505530b2a",
+					            "638db77630c4240f9e06f8b6",
+					            "63d114019e35b334d82302f7",
+					            "619b69037b9de8162902673e",
+					            "6389f1dfc879ce63f72fc43e",
+					            "5f6331e097199b7db2128dc2",
+					            "5839a7742459773cf9693481", 
+					            "57dc334d245977597164366f", 
+					            "5a957c3fa2750c00137fa5f7", 
+					            "6544d4187c5457729210d277",
+					            "5d2c33Cc48f0355d95672c25",
+					            "5649af884bdc2d1b2b8b4589",
+					            "655cb6b5d680a544f30607fa"
+            ],
+            "RaidModdable": true,
+            "Weight": 0.09,
+            "Ergonomics": 7,
+            "BlocksFolding": true,
+            "Prefab": {
+            	"path": "AK_Mod_0/popc_gen4_std.bundle"
+            }
+		},
+		"locales": {
+  			"en": {
+				"name": "POPC Gen 4 mount rail",
+        		"shortName": "POPC",
+            	"description": "4th generation Optic Mount Rail Base(POPC, Podstawa Optycznych Przyrzadow Celowniczych) of Polish Beryl weapon system with an integrated Picatinny rail, which can be installed on the new AKM to AR stock adapter. "
+  			}
+  		},
+		"fleaPriceRoubles": 19000,
+  		"handbookPriceRoubles": 27900,
+  		"addtoTraders": true,
+  		"traders": {
+  			"MECHANIC": {
+  				"691beb576f8befa70c5128a7": {
+  					"barterSettings": {
+			            "loyalLevel": 3,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 3
+		          	},
+		          	"barters": [
+		            {
+		              "count": 19000,
+		              "_tpl": "5449016a4bdc2d6f028b456f"
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"5649b2314bd2Fd79388b4576": { 
+		"itemTplToClone": "5649b2314bdc2d79388b4576",
+		"parentId": "55818a594bdc2db9688b456a",
+		"handbookParentId": "5b5f757486f774093e6cb507",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"ConflictingItems" : ["619b69037b9de8162902673e"],
+            "Prefab": {
+            	"path": "AK_Mod_0/popc_akm_ar_adapter.bundle"
+            },
+             "Slots": [
+		        {
+		          "_name": "mod_stock",
+		          "_id": "5649db764bdc2d363b8b4583",
+		          "_parent": "5649b2314bdc2d79388b4576",
+		          "_mergeSlotWithChildren": false,
+		          "_props": {
+                    "filters": [
+                        {
+                            "Filter": [
+                                "57ade1442459771557167e15",
+                                "5a33ca0fc4a282000d72292f",
+                                "5c0faeddd174af02a962601f",
+                                "5649be884bdc2d79388b4577",
+                                "5d120a10d7ad1a4e1026ba85",
+                                "5b0800175acfc400153aebd4",
+                                "5bb20e58d4351e00320205d7",
+                                "5947e98b86f774778f1448bc",
+                                "5947eab886f77475961d96c5",
+                                "5ef1ba28c64c5d0dfc0571a5",
+                                "602e3f1254072b51b239f713",
+                                "5c793fb92e221644f31bfb64",
+                                "5c793fc42e221600114ca25d",
+                                "591aef7986f774139d495f03",
+                                "591af10186f774139d495f0e",
+                                "627254cc9c563e6e442c398f",
+                                "638de3603a1a4031d8260b8c"
+                            ],
+                            "Shift": 0
+                        }
+                    ]
+                },
+		          "_required": false,
+		          "_proto": "55d30c4c4bdc2db4468b457e"
+		        }
+		    ]
+		},
+		"locales": {
+  			"en": {
+				"name": "POPC AKM to AR Stock adapter",
+        		"shortName": "POPC AKM",
+            	"description": "A specific AKM to AR adapter for POPC."
+   			}
+  		},
+		"fleaPriceRoubles": 18222,
+  		"handbookPriceRoubles": 20000,
+  		"addtoTraders": true,
+  		"traders": {
+  			"SKIER": {
+  				"691bec7e8d521656e07f659f": {
+  					"barterSettings": {
+			            "loyalLevel": 2,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 4
+		          	},
+		          	"barters": [
+		            {
+		              "count": 18222,
+		              "_tpl": "5449016a4bdc2d6f028b456f" 
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"566Cb2314bdc2d79388b4576": {
+		"itemTplToClone": "5649b2314bdc2d79388b4576",
+		"parentId": "55818a594bdc2db9688b456a",
+		"handbookParentId": "5b5f757486f774093e6cb507",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"ConflictingItems" : ["619b69037b9de8162902673e",
+								"619b69037b9de8162902673e"],
+            "Prefab": {
+            	"path": "AK_Mod_0/popc_ak100_ar_adapter.bundle"
+            },
+             "Slots": [
+		        	{
+			          	"_name": "mod_stock",
+			          	"_id": "5649db764bdc2d363b8b4583",
+			          	"_parent": "5649b2314bdc2d79388b4576",
+			          	"_mergeSlotWithChildren": false,
+			          	"_props": {
+	                    	"filters": [
+	                        	{
+	                            	"Filter": [
+	                            	    "57ade1442459771557167e15",
+		                                "5a33ca0fc4a282000d72292f",
+		                                "5c0faeddd174af02a962601f",
+		                                "5649be884bdc2d79388b4577",
+		                                "5d120a10d7ad1a4e1026ba85",
+		                                "5b0800175acfc400153aebd4",
+		                                "5bb20e58d4351e00320205d7",
+		                                "5947e98b86f774778f1448bc",
+		                                "5947eab886f77475961d96c5",
+		                                "5ef1ba28c64c5d0dfc0571a5",
+		                                "602e3f1254072b51b239f713",
+		                                "5c793fb92e221644f31bfb64",
+		                                "5c793fc42e221600114ca25d",
+		                                "591aef7986f774139d495f03",
+		                                "591af10186f774139d495f0e",
+		                                "627254cc9c563e6e442c398f",
+		                                "638de3603a1a4031d8260b8c"
+	                            	],
+	                            	"Shift": 0
+	                        	}
+	                    	]
+	                	},
+			         	"_required": false,
+			         	"_proto": "55d30c4c4bdc2db4468b457e"
+		        	},
+			        {
+			        	"_name": "mod_mount_000",
+		                "_id": "59ff346386f77477562ff5e8",
+		                "_mergeSlotWithChildren": false,
+		                "_parent": "5649b2314bdc2d79388b4576",
+		                "_props": {
+		                    "filters": [
+		                        {
+		                            "Filter": ["5d2c770c48f03543Da07c100"],
+		                            "Shift": 0
+		                        }
+		                    ]
+		                },
+		                "_proto": "55d30c4c4bdc2db4468b457e",
+		                "_required": false
+	            	}
+		    ]
+		},
+		"locales": {
+  			"en": {
+				"name": "POPC AK100 to AR Stock adapter",
+        		"shortName": "POPC AK100",
+            	"description": "A specific AK100 to AR adapter for POPC."
+   			}
+  		},
+		"fleaPriceRoubles": 19300,
+  		"handbookPriceRoubles": 21000,
+  		"addtoTraders": true,
+  		"traders": {
+  			"MECHANIC": {
+  				"691c1753ef4085b0e1395261": {
+  					"barterSettings": {
+			            "loyalLevel": 2,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 4
+		          	},
+		          	"barters": [
+		            {
+		              "count": 19300,
+		              "_tpl": "5449016a4bdc2d6f028b456f"
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"628b9be6cff66b70c662b14c": {
+		"itemTplToClone": "628b9be6cff66b70c002b14c",
+		"parentId": "55818a304bdc2db5418b457d",
+		"handbookParentId": "5b5f764186f77447ec5d7714",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+            "Prefab": {
+            	"path": "AK_Mod_0/reciever_ak_sag_mk3_std.bundle"
+            },
+            "Slots": [
+			  {
+			    "_id": "628b9c0d717774443b15e9f5",
+			    "_mergeSlotWithChildren": false,
+			    "_name": "mod_sight_rear",
+			    "_parent": "628b9be6cff66b70c002b14c",
+			    "_props": {
+			      "filters": [
+			        {
+			          "Filter": [
+			            "628b9471078f94059a4b9bfb"
+			          ],
+			          "Shift": 0
+			        }
+			      ]
+			    },
+			    "_proto": "55d30c4c4bdc2db4468b457e",
+			    "_required": false
+			  },
+			  {
+			    "_id": "628b9c21d4bff34e474e0f90",
+			    "_mergeSlotWithChildren": false,
+			    "_name": "mod_scope",
+			    "_parent": "628b9be6cff66b70c002b14c",
+			    "_props": {
+			      "filters": [
+			        {
+			          "Filter": ["5649a2464bdc2d91118b45a8"],
+			          "Shift": 0
+			        }
+			      ]
+			    },
+			    "_proto": "55d30c4c4bdc2db4468b457e",
+			    "_required": false
+			  }
+			]
+		},
+		"locales": {
+  			"en": {
+				"name": "SAG Mk.3 railed dust cover",
+        		"shortName": "SAG Mk.3 DC",
+            	"description": "A standard-issue dust cover for AK rifles, manufactured by Sureshot Armament Group."
+   			}
+  		},
+		"fleaPriceRoubles": 6000,
+  		"handbookPriceRoubles": 9200,
+  		"addtoTraders": true,
+  		"traders": {
+  			"MECHANIC": {
+  				"691cb91a86c41cafa6f4eac9": {
+  					"barterSettings": {
+			            "loyalLevel": 3,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 5
+		          	},
+		          	"barters": [
+		            {
+		              "count": 6000,
+		              "_tpl": "5449016a4bdc2d6f028b456f"
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"628a83c29179c324ed2695AB": { 
+		"itemTplToClone": "628a83c29179c324ed269508", 
+		"parentId": "56ea9461d2720b67698b456f",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"CoolFactor": 1.06,
+			"Accuracy": 2,
+			"Ergonomics": 16,
+			"HeatFactor": 1.08,
+			"ConflictingItems" : ["5649d9a14bdc2d79388b4580",
+					            "5649af094bdc2df8348b4586",
+					            "5ac50da15acfc4001718d287",
+					            "5d2c76ed48f03532f2136169",
+					            "5d2c770c48f0354b4a07c100",
+					            "59d6507c86f7741b846413a2",
+					            "59e6449086f7746c9f75e822",
+					            "628a665a86cbd9750d2ff5e5",
+					            "5d2c772c48f0355d95672c25",
+					            "5947db3f86f77447880cf76f",
+					            "6113d6c3290d254f5e6b27db",
+					            "57486e672459770abd687134",
+					            "618a5d5852ecee1505530b2a",
+					            "5c82342f2e221644f31c060e",
+					            "576fd4ec2459777f0b518431",
+					            "5c82343a2e221644f31c0611",
+					            "5cf638cbd7f00c06595bc936",
+					            "5a7c74b3e899ef0014332c29",
+					            "591ee00d86f774592f7b841e",
+					            "5d0a29ead7ad1a0026013f27",
+					            "618a75c9a3884f56c957ca1b",
+					            "57acb6222459771ec34b5cb0",
+					            "5c61a40d2e2216001403158d",
+					            "5c90c3622e221601da359851",
+					            "63d114019e35b334d82302f7",
+					            "638db77630c4240f9e06f8b6",
+					            "5649af884bdc2d1b2b8b4589",
+					            "6544d4187c5457729210d277", 
+					            "5d2c33Cc48f0355d95672c25",
+					            "5d2c770c48f03543Da07c100"],
+            "Prefab": {
+            	"path": "AK_Mod_0/handguard_704_sag_mk3_chassis.bundle"
+            },
+             "Slots": [
+                {
+                    "_id": "628a83c29179c324ed269509",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical_000",
+                    "_parent": "628a83c29179c324ed2695AB",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "57fd23e32459772d0805bcf1",
+                                    "544909bb4bdc2d6f028b4577",
+                                    "5d10b49bd7ad1a1a560708b0",
+                                    "5c06595c0db834001a66af6c",
+                                    "61605d88ffa6e502ac5e7eeb",
+                                    "5c5952732e2216398b5abda2",
+                                    "644a3df63b0b6f03e101e065",
+                                    "5649a2464bdc2d91118b45a8"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628a83c29179c324ed26950a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount_000",
+                    "_parent": "628a83c29179c324ed2695AB",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269220d70b6c02e665f2635"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628a83c29179c324ed26950b",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount_001",
+                    "_parent": "628a83c29179c324ed2695AB",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269220d70b6c02e665f2635"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628a83c29179c324ed26950d",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_foregrip",
+                    "_parent": "628a83c29179c324ed2695AB",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "57cffb66245977632f391a99",
+                                    "57cffcd624597763133760c5",
+                                    "57cffcdd24597763f5110006",
+                                    "57cffce524597763b31685d8",
+                                    "5b7be4895acfc400170e2dd5",
+                                    "651a8bf3a8520e48047bf708",
+                                    "651a8e529829226ceb67c319"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628b91a869015a4e1711ed93",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_scope",
+                    "_parent": "628a83c29179c324ed2695AB",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "544a3f024bdc2d1d388b4568",
+                                    "591c4efa86f7741030027726",
+                                    "570fd79bd2720bc7458b4583",
+                                    "570fd6c2d2720bc6458b457f",
+                                    "558022b54bdc2dac148b458d",
+                                    "58491f3324597764bc48fa02",
+                                    "584924ec24597768f12ae244",
+                                    "5b30b0dc5acfc400153b7124",
+                                    "60a23797a37c940de7062d02",
+                                    "5d2da1e948f035477b1ce2ba",
+                                    "5c0505e00db834001b735073",
+                                    "609a63b6e2ff132951242d09",
+                                    "584984812459776a704a82a6",
+                                    "59f9d81586f7744c7506ee62",
+                                    "570fd721d2720bc5458b4596",
+                                    "57ae0171245977343c27bfcf",
+                                    "609bab8b455afd752b2e6138",
+                                    "58d39d3d86f77445bb794ae7",
+                                    "616554fe50224f204c1da2aa",
+                                    "5c7d55f52e221644f31bff6a",
+                                    "616584766ef05c2ce828ef57",
+                                    "615d8d878004cc50514c3233",
+                                    "577d128124597739d65d0e56",
+                                    "58d2664f86f7747fec5834f6",
+                                    "61714b2467085e45ef140b2c",
+                                    "5b31163c5acfc400153b71cb",
+                                    "5a33b652c4a28232996e407c",
+                                    "5a33b2c9c4a282000c5a9511",
+                                    "6477772ea8a38bb2050ed4db",
+                                    "64785e7c19d732620e045e15",
+                                    "6165ac8c290d254f5e6b2f6c",
+                                    "5c064c400db834001d23f468",
+                                    "5b3b6dc75acfc47a8773fb1e",
+                                    "63fc449f5bd61c6cf3784a88",
+                                    "626bb8532c923541184624b4",
+                                    "5a1ead28fcdbcb001912fa9f",
+                                    "59db7eed86f77461f8380365",
+                                    "5a33b2c9c4a282000c5a9511",
+                                    "5c1cdd302e221602b3137250",
+                                    "5b3b6dc75acfc47a8773fb1e"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628b9227a733087d0d7fe839",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_reciever",
+                    "_parent": "628a83c29179c324ed2695AB",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "628b9be6cff66b70c662b14c"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+		},
+		"locales": {
+  			"en": {
+				"name": "SAG Mk.3 handguard",
+        		"shortName": "SAG Mk.3",
+            	"description": "The Sureshot Armament Group Mk.3 handguard for RD-704, equipped with an M-LOK interface for the installation of additional devices and accessories and a picatinny rail on top for sights and tactical equipment mounting."
+   			}
+  		},
+		"fleaPriceRoubles": 29800,
+  		"handbookPriceRoubles": 33600,
+  		"addtoTraders": true,
+  		"traders": {
+  			"SKIER": {
+  				"691cb96ee2111352b72afc1a": {
+  					"barterSettings": {
+			            "loyalLevel": 2,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 4
+		          	},
+		          	"barters": [
+		            {
+		              "count": 29800,
+		              "_tpl": "5449016a4bdc2d6f028b456f" 
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"628a83c29179c324ed26955A": {
+		"itemTplToClone": "628a83c29179c324ed2695AB",
+		"parentId": "56ea9461d2720b67698b456f",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+            "Prefab": {
+            	"path": "AK_Mod_0/handguard_ak_sag_mk3_chassis.bundle"
+            }
+		},
+		"locales": {
+  			"en": {
+				"name": "SAG Mk.3 handguard",
+        		"shortName": "SAG Mk.3",
+            	"description": "The Sureshot Armament Group Mk.3 handguard for AK, equipped with an M-LOK interface for the installation of additional devices and accessories and a picatinny rail on top for sights and tactical equipment mounting."
+   			}
+  		},
+		"fleaPriceRoubles": 25000,
+  		"handbookPriceRoubles": 31200,
+  		"addtoTraders": true,
+  		"traders": {
+  			"SKIER": {
+  				"691cba79b6a8541b35603876": {
+  					"barterSettings": {
+			            "loyalLevel": 2,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 5
+		          	},
+		          	"barters": [
+		            {
+		              "count": 25000,
+		              "_tpl": "5449016a4bdc2d6f028b456f"
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"628a83c29179c324ed64955A": {
+		"itemTplToClone": "628a83c29179c324ed26955A",
+		"parentId": "56ea9461d2720b67698b456f",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"CoolFactor": 1.02,
+			"Accuracy": 1,
+			"Ergonomics": 15,
+			"HeatFactor": 1.02,
+			"Recoil": -6,
+			"Weight": 0.468,
+			"ConflictingItems" : ["5649d9a14bdc2d79388b4580",
+					            "5d2c76ed48f03532f2136169",
+					            "5d2c770c48f0354b4a07c100",
+					            "5d2c772c48f0355d95672c25",
+					            "5947db3f86f77447880cf76f",
+					            "6113d6c3290d254f5e6b27db",
+					            "57486e672459770abd687134",
+					            "618a5d5852ecee1505530b2a",
+					            "5c82342f2e221644f31c060e",
+					            "576fd4ec2459777f0b518431",
+					            "5c82343a2e221644f31c0611",
+					            "5cf638cbd7f00c06595bc936",
+					            "5a7c74b3e899ef0014332c29",
+					            "591ee00d86f774592f7b841e",
+					            "5d0a29ead7ad1a0026013f27",
+					            "618a75c9a3884f56c957ca1b",
+					            "57acb6222459771ec34b5cb0",
+					            "5c61a40d2e2216001403158d",
+					            "5c90c3622e221601da359851",
+					            "63d114019e35b334d82302f7",
+					            "638db77630c4240f9e06f8b6",
+					            "5649af884bdc2d1b2b8b4589",
+					            "6544d4187c5457729210d277",
+					            "5c064c400db834001d234F68",
+					            "5d2c33Cc48f0355d95672c25",
+					            "5d2c770c48f03543Da07c100"],
+            "Prefab": {
+            	"path": "AK_Mod_0/handguard_ak_sag_mk2_1.bundle"
+            },
+             "Slots": [
+                {
+                    "_id": "628a83c29179c324ed269509",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical_000",
+                    "_parent": "628a83c29179c324ed64955A",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "57fd23e32459772d0805bcf1",
+                                    "544909bb4bdc2d6f028b4577",
+                                    "5d10b49bd7ad1a1a560708b0",
+                                    "5c06595c0db834001a66af6c",
+                                    "61605d88ffa6e502ac5e7eeb",
+                                    "5c5952732e2216398b5abda2",
+                                    "644a3df63b0b6f03e101e065",
+                                    "5649a2464bdc2d91118b45a8"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628a83c29179c324ed26950a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount_000",
+                    "_parent": "628a83c29179c324ed64955A",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269220d70b6c02e665f2635"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628a83c29179c324ed26950b",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount_001",
+                    "_parent": "628a83c29179c324ed64955A",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269220d70b6c02e665f2635"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628a83c29179c324ed26950d",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_foregrip",
+                    "_parent": "628a83c29179c324ed64955A",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "57cffb66245977632f391a99",
+                                    "57cffcd624597763133760c5",
+                                    "57cffcdd24597763f5110006",
+                                    "57cffce524597763b31685d8",
+                                    "5b7be4895acfc400170e2dd5",
+                                    "651a8bf3a8520e48047bf708",
+                                    "651a8e529829226ceb67c319"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "628b91a869015a4e1711ed93",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_scope",
+                    "_parent": "628a83c29179c324ed64955A",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "544a3f024bdc2d1d388b4568",
+                                    "591c4efa86f7741030027726",
+                                    "570fd79bd2720bc7458b4583",
+                                    "570fd6c2d2720bc6458b457f",
+                                    "558022b54bdc2dac148b458d",
+                                    "58491f3324597764bc48fa02",
+                                    "584924ec24597768f12ae244",
+                                    "5b30b0dc5acfc400153b7124",
+                                    "60a23797a37c940de7062d02",
+                                    "5d2da1e948f035477b1ce2ba",
+                                    "5c0505e00db834001b735073",
+                                    "609a63b6e2ff132951242d09",
+                                    "584984812459776a704a82a6",
+                                    "59f9d81586f7744c7506ee62",
+                                    "570fd721d2720bc5458b4596",
+                                    "57ae0171245977343c27bfcf",
+                                    "609bab8b455afd752b2e6138",
+                                    "58d39d3d86f77445bb794ae7",
+                                    "616554fe50224f204c1da2aa",
+                                    "5c7d55f52e221644f31bff6a",
+                                    "616584766ef05c2ce828ef57",
+                                    "615d8d878004cc50514c3233",
+                                    "577d128124597739d65d0e56",
+                                    "58d2664f86f7747fec5834f6",
+                                    "61714b2467085e45ef140b2c",
+                                    "5b31163c5acfc400153b71cb",
+                                    "5a33b652c4a28232996e407c",
+                                    "5a33b2c9c4a282000c5a9511",
+                                    "6477772ea8a38bb2050ed4db",
+                                    "64785e7c19d732620e045e15",
+                                    "6165ac8c290d254f5e6b2f6c",
+                                    "5c064c400db834001d23f468",
+                                    "5b3b6dc75acfc47a8773fb1e",
+                                    "63fc449f5bd61c6cf3784a88",
+                                    "626bb8532c923541184624b4",
+                                    "5a1ead28fcdbcb001912fa9f",
+                                    "59db7eed86f77461f8380365",
+                                    "5a33b2c9c4a282000c5a9511",
+                                    "5c1cdd302e221602b3137250",
+                                    "5b3b6dc75acfc47a8773fb1e"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+		},
+		"locales": {
+  			"en": {
+				"name": "SAG Mk.2.1 handguard",
+        		"shortName": "SAG Mk.2.1",
+            	"description": "The Sureshot Armament Group Mk.2.1 standard handguard for AK series, equipped with an M-LOK interface for the installation of additional devices and accessories and a picatinny rail on top for sights and tactical equipment mounting."
+   			}
+  		},
+		"fleaPriceRoubles": 18100,
+  		"handbookPriceRoubles": 25600,
+  		"addtoTraders": true,
+  		"traders": {
+  			"PEACEKEEPER": {
+  				"691cbb99bae08407bec6d508": {
+  					"barterSettings": {
+			            "loyalLevel": 1,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 3
+		          	},
+		          	"barters": [
+		            {
+		              "count": 18100,
+		              "_tpl": "5449016a4bdc2d6f028b456f"
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"628a83c29179c324ed64943D": {
+		"itemTplToClone": "628a83c29179c324ed64955A",
+		"parentId": "56ea9461d2720b67698b456f",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"Accuracy": 0,
+			"Ergonomics": 17,
+			"Recoil": -2,
+			"Weight": 0.32,
+            "Prefab": {
+            	"path": "AK_Mod_0/handguard_ak_sag_mk2.bundle"
+            }
+		},
+		"locales": {
+  			"en": {
+				"name": "SAG Mk.2 handguard",
+        		"shortName": "SAG Mk.2",
+            	"description": "The Sureshot Armament Group Mk.2 for AK series, equipped with an M-LOK interface for the installation of additional devices and accessories and a picatinny rail on top for sights and tactical equipment mounting."
+   			}
+  		},
+		"fleaPriceRoubles": 15300,
+  		"handbookPriceRoubles": 29200,
+  		"addtoTraders": true,
+  		"traders": {
+  			"MECHANIC": {
+  				"691cbbb881c6e257cce8541e": {
+  					"barterSettings": {
+			            "loyalLevel": 2,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 4
+		          	},
+		          	"barters": [
+		            {
+		              "count": 153,
+		              "_tpl": "5696686a4bdc2da3298b456a"
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"5fbcc437d724d907e20BCd5c": { 
+		"itemTplToClone": "628a83c29179c324ed64955A",
+		"parentId": "55818a594bdc2db9688b456a",
+		"handbookParentId": "5b5f757486f774093e6cb507",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"Recoil": -26,
+            "Prefab": {
+            	"path": "AK_Mod_0/stock_ak_sig_thin_foldable.bundle"
+            }
+		},
+		"locales": {
+  			"en": {
+				"name": "SIG lightweight stock",
+        		"shortName": "SIG light",
+            	"description": "A thin and lightweight stock manufactured by SIG Sauer."
+   			}
+  		},
+		"fleaPriceRoubles": 6000,
+  		"handbookPriceRoubles": 8650,
+  		"addtoTraders": true,
+  		"traders": {
+  			"SKIER": {
+  				"691cbbe3c45635d3a08727f5": {
+  					"barterSettings": {
+			            "loyalLevel": 1,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 5
+		          	},
+		          	"barters": [
+		            {
+		              "count": 6000,
+		              "_tpl": "5449016a4bdc2d6f028b456f" 
+		            }
+		          ]
+  				}
+  			}
+  		}
+	},
+	"57ffa9f424597772857Ee844": {
+		"itemTplToClone": "628a83c29179c324ed64955A",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"CanSellOnRagfair": true,
+			"CoolFactor": 1,
+			"Ergonomics": 4,
+			"HeatFactor": 1,
+			"Weight": 0.11,
+            "Prefab": {
+            	"path": "AK_Mod_0/handguard_aks74u_zenit_b11_blk.bundle"
+            }
+		},
+		"locales": {
+  			"en": {
+				"name": "AKS-74U Zenit B-11 lightweight handguard",
+        		"shortName": "B-11 light",
+            	"description": "The integrally machined B-11 foregrip is manufactured from aluminum alloy D16T with black coating and can be installed instead of the standard-issue foregrip on the AKS-74U. The foregrip is fitted with Picatinny rail mounts on three sides, allowing for the installation of additional equipment such as tactical foregrips, flashlights, and laser designators. Manufactured by Zenit."
+   			}
+  		},
+		"fleaPriceRoubles": 3500,
+  		"handbookPriceRoubles": 4000,
+  		"addtoTraders": true,
+  		"traders": {
+  			"PEACEKEEPER": {
+  				"691cbc3ed06d912f63041fa6": {
+  					"barterSettings": {
+			            "loyalLevel": 1,
+			            "unlimitedCount": false,
+			            "stackObjectsCount": 5
+		          	},
+		          	"barters": [
+		            {
+		              "count": 35,
+		              "_tpl": "5696686a4bdc2da3298b456a"
+		            }
+		          ]
+  				}
+  			}
+  		}
+	}
+}
