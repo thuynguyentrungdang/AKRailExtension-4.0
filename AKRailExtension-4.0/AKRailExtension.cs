@@ -74,6 +74,7 @@ public class AKRailExtension(
         
         // Use WTT-CommonLib services
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+        await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
 
         foreach (string s in addUpper)
         {
